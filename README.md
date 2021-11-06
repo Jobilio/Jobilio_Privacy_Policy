@@ -1,12 +1,13 @@
 This privacy policy (hereinafter – the Policy) describes what information the Developer collects about the User and why, how the Developer uses the collected information, and in what cases it discloses it.
 
- 1. GENERAL PROVISIONS
- 1.1. This privacy policy governs the use of the Mobile Application Jobilio, the Mobile Application was created by development team (hereinafter – the Developer).
- 1.2. All terms used in this Policy have the same meaning as in the Terms and Conditions of the Mobile Application. This Policy is an annex to the Terms and Conditions, which are posted in the Mobile application.
- 1.3. By using the Mobile Application, the User accepts this Policy and gives his consent to the collection, processing, storage, and use of his personal data and information that is collected automatically.
- 1.4. As a rule, the Developer does not collect any personal data from Users.
- 1.5. The Developer does not require the User to register anywhere before downloading and using the Mobile Application.
- 1.6. This Policy has been prepared in Ukrainian, Russian, and English. In the event of a discrepancy between versions in different languages, the Ukrainian version shall prevail.
+1. GENERAL PROVISIONS
+
+1.1. This privacy policy governs the use of the Mobile Application Jobilio, the Mobile Application was created by development team (hereinafter – the Developer).
+1.2. All terms used in this Policy have the same meaning as in the Terms and Conditions of the Mobile Application. This Policy is an annex to the Terms and Conditions, which are posted in the Mobile application.
+1.3. By using the Mobile Application, the User accepts this Policy and gives his consent to the collection, processing, storage, and use of his personal data and information that is collected automatically.
+1.4. As a rule, the Developer does not collect any personal data from Users.
+1.5. The Developer does not require the User to register anywhere before downloading and using the Mobile Application.
+1.6. This Policy has been prepared in Ukrainian, Russian, and English. In the event of a discrepancy between versions in different languages, the Ukrainian version shall prevail.
  
  2. WHAT TYPES OF INFORMATION ARE COLLECTED?
  2.1. The Developer automatically collects certain information when the User visits, uses the Mobile Application, or navigates through it. This information does not reveal the identity of the User (such as name or contact information).
